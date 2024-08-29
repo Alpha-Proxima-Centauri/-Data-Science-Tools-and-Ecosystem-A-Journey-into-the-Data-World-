@@ -56,16 +56,19 @@ The notebook also includes examples of basic arithmetic operations in Python:
    (3 * 4) + 5
 Result:
 17
+2. **Converting Minutes to Hours**
 # This will convert 200 minutes to hours by dividing by 60
+```python
 200 / 60
 Result:
 3.3333333333333335
-Objectives
+## Objectives
 # The main objectives of this notebook are :
 
-To list popular languages used in Data Science
-To highlight commonly used libraries in Data Science
-To demonstrate the creation and sharing of a Jupyter Notebook
-To evaluate simple arithmetic expressions in Python
+1. To list popular languages used in Data Science.
+2. To highlight commonly used libraries in Data Science.
+3. To demonstrate the creation and sharing of a Jupyter Notebook.
+4. To evaluate simple arithmetic expressions in Python.
+
 # Author
 # Mohamed Ayoub Essalami 😊
