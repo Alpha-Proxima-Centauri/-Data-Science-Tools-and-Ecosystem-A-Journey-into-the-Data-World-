@@ -58,8 +58,8 @@ Result:
 17
 
 2. **Converting Minutes to Hours**
-# This will convert 200 minutes to hours by dividing by 60
 ```python
+# This will convert 200 minutes to hours by dividing by 60
 200 / 60
 Result:
 3.3333333333333335
