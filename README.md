@@ -56,15 +56,15 @@ The notebook also includes examples of basic arithmetic operations in Python:
    (3 * 4) + 5
 Result:
 17
-
-2. **Converting Minutes to Hours**
-```python
- # This will convert 200 minutes to hours by dividing by 60
+Converting Minutes to Hours
+  python
+# This will convert 200 minutes to hours by dividing by 60
 200 / 60
 Result:
+Copy code
 3.3333333333333335
 
-Objectives
+# Objectives
 # The main objectives of this notebook are :
 
 1. To list popular languages used in Data Science.
