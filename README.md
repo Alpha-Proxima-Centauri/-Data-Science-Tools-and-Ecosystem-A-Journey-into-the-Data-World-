@@ -59,12 +59,12 @@ Result:
 
 2. **Converting Minutes to Hours**
 ```python
-# This will convert 200 minutes to hours by dividing by 60
+ # This will convert 200 minutes to hours by dividing by 60
 200 / 60
 Result:
 3.3333333333333335
 
-# Objectives
+Objectives
 # The main objectives of this notebook are :
 
 1. To list popular languages used in Data Science.
