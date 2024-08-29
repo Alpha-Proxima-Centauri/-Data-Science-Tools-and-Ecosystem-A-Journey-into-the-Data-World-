@@ -56,12 +56,14 @@ The notebook also includes examples of basic arithmetic operations in Python:
    (3 * 4) + 5
 Result:
 17
+
 2. **Converting Minutes to Hours**
 # This will convert 200 minutes to hours by dividing by 60
 ```python
 200 / 60
 Result:
 3.3333333333333335
+
 ## Objectives
 # The main objectives of this notebook are :
 
